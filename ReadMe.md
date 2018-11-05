@@ -319,22 +319,18 @@ Answer: You can allocate a maximum of 2 TB for this storage space.
 
 #### Oct. 29, 2018
 
-Browse the Windows Store. What app did you find that surprised you? Is there an essential app
-to your life missing that from the store? What is it and where can one find it?
+Browse the Windows Store. What app did you find that surprised you? Is there an essential app to your life missing that from the store? What is it and where can one find it?
 
-Answer: I found a video player called VLC, which surprised me because being a free application,
-I thought it was an open source program you couldn't get on the Microsoft Store.
+Answer: I found a video player called VLC, which surprised me because being a free application, I thought it was an open source program you couldn't get on the Microsoft Store.
 
-One essential application to me is foobar2000, an audio player that is also free. What's special about it
-is that music lovers like myself can look at the spectograms of any of my songs and see how their sounds
-are visualized. It can be downloaded at www.foobar2000.org
+One essential application to me is foobar2000, an audio player that is also free. What's special about it is that music lovers like myself can look at the spectograms of any of my songs and see how their sounds are visualized. It can be downloaded at www.foobar2000.org
 
 
 #### Notes
 
 The home stretch
 
-Technical Blog Sheckpoints
+Technical Blog Checkpoints
 Professoinalism weeks
 2x mcsa practice quizzes
 change managment whitepaper (ch.2)
@@ -345,25 +341,17 @@ Night of Case Studies
 
 #### Skill 2.4 Technical Prompt
 
-You work for a small business of 25 employees, split between two offices that
-are in different buildings but share a parking lot.
+You work for a small business of 25 employees, split between two offices that are in different buildings but share a parking lot.
 
-1. You have been tasked with designing a file sharing solution that is fast,
-reliable, easy to use, and secure. What would you do?
+1. You have been tasked with designing a file sharing solution that is fast, reliable, easy to use, and secure. What would you do?
 
 A: I would set up a site-to-site VPN connection between the two buildings, or G Suite.
 
-2. You have been tasked with deploying Microsoft Office to all
-machines, Adobes CS Suite to the Marketing team, and QuickBooks to
-the Accounting Team. You also want allow users to selectively install
-Adobe Acrobat. What would you do?
+2. You have been tasked with deploying Microsoft Office to all machines, Adobes CS Suite to the Marketing team, and QuickBooks to the Accounting Team. You also want allow users to selectively install Adobe Acrobat. What would you do?
 
-A: I would create and distribute a provisioning package that includes Microsoft Office,
-Adobe CS Suite, and QuickBooks for their respective intended users and place
-the package onto the network folder.
+A: I would create and distribute a provisioning package that includes Microsoft Office, Adobe CS Suite, and QuickBooks for their respective intended users and place the package onto the network folder.
 
-To allow users to install Adobe Acrobat by themselves, I would use Group Policy to make
-exceptions for them to do so.
+To allow users to install Adobe Acrobat by themselves, I would use Group Policy to make exceptions for them to do so.
 
 
 cypherdotexe
