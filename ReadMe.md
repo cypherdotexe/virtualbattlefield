@@ -425,12 +425,9 @@ Answer: You can use Group Policy Editor to disable the Windows Installer.
 
 1) You are an IT manager and several computers belonging to support staff were recently upgraded from Windows 7 Pro to Windows 10 Enterprise.  You have received several complaints that "their computers are slow", "apps stop responding" and "websites are slow to load".  Describe the monitoring tools you would use to help diagnose the issues.
 
-Answer: The computers likely do not meet the minimum specification for Windows 10 from Windows 7. You could also check their reliabilitity using the Reliability Monito and check for any critical events they had suffered. You can also use the the Performance Monitor to review their network interface card performance.
+Answer: The computers likely do not meet the minimum specification for Windows 10 from Windows 7. You could also check their reliabilitity using the Reliability Monitor and check for any critical events they had suffered. You can also use the the Performance Monitor to review their network interface card performance.
 
-2) Your Sierra College instructor just gave you a free laptop (not going to happen).  
-You want to make sure that the contents of that machine are periodically backed up and that 
-you have access to previous versions of files.  
-Describe the data recovery strategies you would implement on your new machine.
+2) Your Sierra College instructor just gave you a free laptop (not going to happen).  You want to make sure that the contents of that machine are periodically backed up and that you have access to previous versions of files. Describe the data recovery strategies you would implement on your new machine.
 
 Answer: At one time, I had installed a customized theme for my Windows 10 OS, called Penumbra, which turns all white windows black. It's very easy on my eyes.
 
