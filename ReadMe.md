@@ -2,7 +2,7 @@
 ## Christian Bruce Young
 ### christianbruceyoung@gmail.com
 
-###**Biography**
+**Biography**
 
 IT and Cybersecurity student at Sierra College. I watch movies, and play Nintendo. I have no professional IT experience, but am proficient in Microsoft and Adobe products. In May 2018, I built my first computer. These are its specifications:
 
@@ -18,7 +18,7 @@ IT and Cybersecurity student at Sierra College. I watch movies, and play Nintend
 
 This will serve somewhat as a digital portfolio for my experiences in CIS 141 - Client Operating System Installation and Configuration.
 
-#### Skill 1.1 - Prepare for Installation Requirements
+### Skill 1.1 - Prepare for Installation Requirements
 
 Warm-up: How many computers are in this room? Explain your answer.
 
@@ -84,15 +84,14 @@ Display: 800x600
 
 
 
-#### Skill 1.2 - Install Windows 10
+### Skill 1.2 - Install Windows 10
 
 
-#### 1.3 Sept 10 Warmup Activity
+### 1.3 Sept 10 Warmup Activity
 
 Warmup: Windows 7 was the world's most used Windows OS, but updates for Windows 10 last August have started to decrease the number of computers running Windows 7. Microsoft has been pushing for more users to upgrade to Windows 10, and users are reluctant because they view Windows 7 (and previously Windows XP) as the most stable OS. Microsoft has announced that they will end Windows 7 support in 2020, and those who continue to use it must pay for security updates through 2023. Although this is aimed towards businesses, the number of Windows 7 users in the world outnumber Windows 10 users, and Windows 7 users are concerned that they will have to upgrade to 10.
 
-#### 1.2 Technical Blog Prompt: Answer the following questions and, when applicable, be sure to include screenshots and links to the Internet:
-
+### 1.2 Technical Blog Prompt 
 
  1. Why would a user be interested in multiple partitions on a hard drive?  Use a Windows tool (GUI or CLI) to create a partition and describe the steps that you took to create multiple partitions.
 
@@ -120,13 +119,13 @@ I added Windows Hypervisor Platform after installation by going to the Control P
 
 
 
-#### Sept. 17 Warmup
+### Sept. 17 Warmup
 
 "What is 'Patch Tuesday'? When did it last occur? What was included in the most recent?
 
 "Patch Tuesday" is an unofficial term used to refer to when Microsoft frequently releases security patches for its software. It last occured on September 11. This month's patch covers 61 vulnerabilities in Microsoft software, 17 of which were rated Critical.
 
-#### Skill 1.2 Technical Blog - Windows 8.1 Upgrade
+### Skill 1.2 Technical Blog - Windows 8.1 Upgrade
 
 1. On Windows 8.1, install an application that may not be Windows 10 compatible. Why do you think this application may not be compatible?
 
@@ -151,9 +150,9 @@ Both processes require users' complete and undivided attention when choosing the
 After the upgrade process is complete, a new folder with data from Windows 8.1 remains, called Windows.old, which can allow the user to roll back to 8.1 if they encounter any problems with 10.
 
 
-#### Skill 1.3 - Configure Devices and Device Drivers
+### Skill 1.3 - Configure Devices and Device Drivers
 
-#### Skill 1.3 Technical Blog Prompt
+### Skill 1.3 Technical Blog Prompt
 
 1. Create a list of hardware that a user might have that require a driver installation.
   -Motherboards
@@ -187,7 +186,7 @@ Downloading Windows updates over metered connections would limit the computer's 
  -I go to Device Manager and disable the microphone to see if the computer performs better. It might need a driver update.
 
 
-#### Sept. 24, 2018
+### Sept. 24, 2018
 
 Warmup: Take a few minutes to read the article posted in Canvas. What do you think is the future of operating systems? Feel free to add additional research to your response.
 
@@ -196,7 +195,7 @@ Answer: Microsoft announced Windows Virtual Desktop, where Windows 10 can be use
 
 
 
-#### Skill 1.4 Technical Blog Prompt
+### Skill 1.4 Technical Blog Prompt
 
 - Using your textbook, ITPro.tv videos and notes, as well as Microsoft documentation, research one of the following post-installation activities, create a step-by-step guide, and test out your guide on your VM.
 
@@ -208,14 +207,14 @@ Answer: Microsoft announced Windows Virtual Desktop, where Windows 10 can be use
 
 
 
-#### Oct. 1, 2018
+### Oct. 1, 2018
 
 Warmup: What is "UAC"? Why is it important? When did Microsoft introduce UAC? Is UAC on your Sierra host machine different than your VM? If so, how so?
 
 Answer: UAC is short for User Account Control, a security control introduced in Windows Vista. UAC is designed to prevent the computer from running software from making unauthorized changes to the operating system's settings before asking for the user's permission. The UAC on my Sierra host machine is nearly identical to the one on my VM.
 
 
-#### Skill 1.5 - Enterprise Implementations Notes
+### Skill 1.5 - Enterprise Implementations Notes
 
 LSDO - Local, Site, Domain, Organizational units - order of operations for user privileges in an enterprise environment
 
@@ -247,7 +246,7 @@ GPEdit Challenge
 
     Computer Configuration > Windows Settings > Local Policies > Security Options > "User Account Control: Switch to the secure desktop when prompting for elevation"
 
-#### Oct. 8, 2018
+### Oct. 8, 2018
 
 Prompt: What is a "software bug" Describe the "bug" that is delaying the release of the 1809 update for Windows 10.
 
@@ -263,7 +262,7 @@ C:\Users  \Documents \ Windows Imaging & Configuration Designer
 local administrator account and pass for provision
 cyoung13 77778
 
-#### Skill 2.1 Technical Blog Prompt
+### Skill 2.1 Technical Blog Prompt
 
 Prompt: Create a Top 5 list of Windows 10 networking best practices, tips, tricks, and troubleshooting strategies.
 
@@ -274,7 +273,7 @@ Prompt: Create a Top 5 list of Windows 10 networking best practices, tips, trick
 5. Connect to a HomeGroup.
 
 
-#### Oct. 15, 2018
+### Oct. 15, 2018
 
 What is BitLocker?
 
@@ -292,9 +291,9 @@ How about a Macbook or a Chromebook?
 
 A: They cannot work on Macbooks, but they are pre-enabled on Surface Pro 3 tablets.
 
-#### Review Skill 2.2 Key Concepts
+### Review Skill 2.2 Key Concepts
 
-#### Skill 2.2 Technical Blog Prompt
+### Skill 2.2 Technical Blog Prompt
 
 Scenario 1: Creating a Large Volume
 
@@ -317,7 +316,7 @@ Answer: You can allocate a maximum of 2 TB for this storage space.
 
 
 
-#### Oct. 29, 2018
+### Oct. 29, 2018
 
 Browse the Windows Store. What app did you find that surprised you? Is there an essential app to your life missing that from the store? What is it and where can one find it?
 
@@ -326,20 +325,38 @@ Answer: I found a video player called VLC, which surprised me because being a fr
 One essential application to me is foobar2000, an audio player that is also free. What's special about it is that music lovers like myself can look at the spectograms of any of my songs and see how their sounds are visualized. It can be downloaded at www.foobar2000.org
 
 
-#### Notes
+### Skill 2.3 Technical Prompt
 
-The home stretch
+Lab 09: Installing a Virtual Printer
 
-Technical Blog Checkpoints
-Professoinalism weeks
-2x mcsa practice quizzes
-change managment whitepaper (ch.2)
-break windows 10 image challenge (ch.3)
+1.2.1 : There are 3 printers.
+2.1.1 : There are now 4 printers with the virtual printer added.
+3.1.1 : "Save Print Output As"
+3.1.2 : "prn"
+3.1.3 : It displays the file name on top and a page number at the bottom.
+4.1.1 : Microsoft Print to PDF has become the new default printer.
 
-Night of Case Studies
+Lab 10: Share a Virtual Printer
 
+1.2.1 : There are 3 printers.
+2.1.1 : There are now 4 printers.
+3.1.1 : It is shown as the default printer and shown as a shared printer.
+4.1.1 : On the PC1 machine, there are 3 printers.
+4.1.2 : There are now 4 printers listed.
+4.1.3 : "Save Print Output As"
+4.1.4 : The file appeared on the desktop.
 
-#### Skill 2.4 Technical Prompt
+Lab 12: Configure Local User File Sharing
+
+3.1.1a: Local account.
+3.1.1b: With an Administrator account, users can change settings globally, install programs, and bypass the UAC. One might want one because Standard user accounts cannot do these, and they have to have an administrator present for UAC.
+5.1.1 : The folder is currently shared with "student"
+5.1.2 : "student", "TEST", "Everyone"
+5.1.3 : "student", "TEST"
+6.1.1a: "Access is denied."
+6.1.1b: The TEST user does not have an Administrator account. They have a Local account.
+
+### Skill 2.4 Technical Prompt
 
 You work for a small business of 25 employees, split between two offices that are in different buildings but share a parking lot.
 
@@ -358,4 +375,65 @@ cypherdotexe
 44183286+cypherdotexe@users.noreply.github.com
 
 
-#### Skill 2.3 Technical Prompt
+### Skill 2.5 Technical Prompt
+
+
+
+For Skill 2.5, please complete NETLAB+ CSSIA Windows 10 Administration Lab 07: Connecting Through Remote Desktop.  There are only six questions in the lab, but the process of connecting via Remote Desktop - and the ability to also use Remote Assistant - should be valuable for this lesson.
+
+Since the lab is brief, please also address the following scenarios relating to Remote Assistance:
+
+1) Joe is a new IT Director who is tasked with making sure his Windows 10 computer users can be assisted remotely. On his first day at the company, Joe was told that the Remote Assistance feature was not working for users after a new firewall was installed. What could be causing the problem and how should it be addressed?
+
+Answer: Remote Assistance uses port 3389 to connect with other computers; it is likely that it is blocked, so to be able to use Remote Assitance, the port has to be reopened.
+
+2) You are an administrator at the Contoso Corporation. You have a 12-person help desk that supports about 10,000 users spread out over a 5-building campus. You don’t have enough people to provide support staff visits to a user who is having problems. Describe the actions you can take to support your company users.
+
+Answer: I and my helpdesk team can use Remote Assistance to connect to the staff's computers remotely. When they call the helpdesk, we walk them through creating an invitation for the remote session.
+
+
+Lab
+1.3.1 : It is likely that remote access to PC1 is not enabled.
+3.1.1a: The IP address for PC1 is displayed.
+3.1.1b: "Disconnect" is the only option listed.
+4.1.1 : It is necessary to login to the PC1 machine again to see if any files made or settings changed via RDC in PC2 are present.
+4.1.2a: Yes, the file "Bonzi was here.txt" created on the PC2 computer is on the PC1 desktop.
+4.1.2b: One thing I like about RDC is that you can use it to configure other computers from a distance. If you have an Administrator account, you can use the rights you have to perform any of its exclusive actions on another's desktop with RDC.
+
+
+### Skill 3.1 Technical Prompt
+
+Lab
+1.2.1 : It will allow your computer to wake up at any specified time to run maintenance or updates.
+1.2.2 : "No action needed."
+2.1.1 : Automatic maintenance would still work.
+
+
+1) You are an IT manager and would like to use a virtual machine to keep up to date on the latest development in Windows 10 and access the preview builds.  How would you go about doing this?
+
+Answer: You can create a Windows 10 VM and enable the Windows Insider Program in Settings to see the preview builds.
+
+2) As an IT manager, one of the departments you support is Physical Plant Operations.  They use a specialized application to run power generators that does not need access to the Internet or require any operating software updates.  Which branch of Windows 10 will you recommend for use by the Physical Plant Operations department?  Why?
+
+Answer: Semi-Annual Channel, previously named Current Branch for Business, is best suited for the department because it can be set not to update the branch for up to 365 days.
+
+3) As an IT manager, you have developed a custom image of Windows 10 that is deployed to all general users.  You do not want the users to be able to install additional software, including applications found in the Windows Store.  How could you prevent users from installing apps from the Windows Store?
+
+Answer: You can use Group Policy Editor to disable the Windows Installer.
+
+### Skill 3.2 and 3.3 Technical Prompt
+
+1) You are an IT manager and several computers belonging to support staff were recently upgraded from Windows 7 Pro to Windows 10 Enterprise.  You have received several complaints that "their computers are slow", "apps stop responding" and "websites are slow to load".  Describe the monitoring tools you would use to help diagnose the issues.
+
+Answer: The computers likely do not meet the minimum specification for Windows 10 from Windows 7. You could also check their reliabilitity using the Reliability Monito and check for any critical events they had suffered. You can also use the the Performance Monitor to review their network interface card performance.
+
+2) Your Sierra College instructor just gave you a free laptop (not going to happen).  
+You want to make sure that the contents of that machine are periodically backed up and that 
+you have access to previous versions of files.  
+Describe the data recovery strategies you would implement on your new machine.
+
+Answer: At one time, I had installed a customized theme for my Windows 10 OS, called Penumbra, which turns all white windows black. It's very easy on my eyes.
+
+But one time when the OS upgraded to a new version, the code of the theme made it so I am unable to log in to my computer. Before that happened, I created a restore point so that my OS could go back to the point before I installed Penumbra, and it was a success. In the event that I install it again, I will do the same method for my new laptop.
+
+
